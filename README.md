@@ -12,7 +12,7 @@
 * The slider is responsible for the delay between colors in the rainbow mode.
 * The zeRGBa responsible for color in normal mode.
 
-## Материалы и компоненты
+### Materials and Components
 * Arduino NANO
 * HM-10 Bluetooth 4 BLE Module
 * Battery
